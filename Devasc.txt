@@ -1,6 +1,10 @@
 
 
-Esto es una prueba
+Esto es una omg
 Primera Linea
 Segunda Linea
 Estamos empezando a entender Git
+
+Estamos haciendo cambios desde la rama feature
+
+Linea 3
