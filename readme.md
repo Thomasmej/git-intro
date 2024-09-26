@@ -8,8 +8,15 @@ Im Thomas Mejia, and Im 24 years ikd
 
 Hacer el cierre de la presentacion, invitando a contactar
 
+
+## Skills
+
+- Coaching
+
 ##Technologies
 
 - HTML
 - CSS
 - JS
+
+
